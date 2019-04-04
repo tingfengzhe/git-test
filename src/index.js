@@ -1,1 +1,1 @@
-var index = { name: index }
+var test3 = { name: 'test-3' }
