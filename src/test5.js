@@ -1,4 +1,4 @@
 vat test5 = {
 	name: 'xiaobing',
-	aaa: 222
+	aaa: 888
 }
